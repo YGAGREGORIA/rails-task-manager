@@ -8,3 +8,9 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+.task-container {
+  max-width: 600px;
+  padding-left: 20px;
+  gap: 10px;
+  padding-top: 50px;
+}
